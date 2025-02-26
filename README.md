@@ -5,7 +5,7 @@ And i (try) to make music.
 i like fluffy things.
 
 
-  cart     / \\         /  \\
+           / \\         /  \\
          / /| ||       | |\  \\
        / /__| ||       | |__\ \\
      / /____| ||       | |___\ \\
@@ -18,3 +18,5 @@ i like fluffy things.
   |           \__/\__/           ||
   |                              ||
    \____________________________//
+
+if you try hard enough there's a cat.
