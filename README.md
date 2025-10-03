@@ -1,5 +1,1 @@
-im ar3o. im sleepy. 
-I do programming sometimes.
-I also do 3d models occasionally.
-And I like attempting to make music.
-I like fluffy things.
+Hi im ar3o. My username came from a keyboard smash. I like linux, computer, and funny integrated devices. I also hate integrated devices. My favorite color is #00ffc4. I make sounds with computer sometimes.
